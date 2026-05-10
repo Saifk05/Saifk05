@@ -1,69 +1,80 @@
 # Hi, I'm Saifali Kalkeri 👋
 
-🚀 Full Stack Engineer | Backend Systems & Real-Time Architectures  
-⚡ Architected scalable applications serving 8K+ users  
-📍 Bengaluru, India  
+🚀 Full Stack Developer focused on Backend Systems, Workflow Automation, and Real-Time Applications
+⚡ Building scalable operational platforms using Node.js, TypeScript, React, and PostgreSQL
+📍 Bengaluru, India
 
 ---
 
 ## 🔥 About Me
 
-- 💻 Architecting and scaling backend systems and real-time applications  
-- ⚡ Building high-performance APIs using Node.js & TypeScript  
-- 🧠 Strong in system design, RBAC, authentication, and distributed workflows  
-- 🚀 Passionate about solving real-world logistics and automation problems  
+* 💻 Building scalable backend systems and automation workflows
+* ⚡ Developing REST APIs, real-time systems, and operational platforms
+* 🧠 Interested in system design, RBAC, authentication, and workflow orchestration
+* 🚀 Passionate about solving real-world logistics, automation, and operational challenges
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, Angular, Ionic  
-**Backend:** Node.js, Express.js  
-**Languages:** TypeScript, JavaScript, Python, Java  
-**Database:** PostgreSQL, MongoDB, Firebase  
-**Cloud & Tools:** AWS, Vercel, Render, Git, Postman  
+### Frontend
+
+React.js, Next.js, Angular, Ionic, React Native
+
+### Backend
+
+Node.js, Express.js, REST APIs
+
+### Languages
+
+JavaScript, TypeScript, Python, Java
+
+### Database & ORM
+
+PostgreSQL, MongoDB, Firebase, Prisma ORM
+
+### Cloud & Tools
+
+AWS, Vercel, Render, Git, GitHub, Postman
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Scalable Task & Expense Management Platform
-- Architected full-stack system supporting **8000+ users**  
-- Implemented JWT authentication with refresh tokens & RBAC  
-- Optimized APIs and database queries for performance  
+### 🔹 Manufacturing Procurement Automation Platform
+
+* Automated vendor matching, RFQ workflows, and order lifecycle tracking
+* Built WhatsApp-first operational workflows for procurement coordination
+* Designed backend orchestration workflows for CNC, Sheet Metal, and 3D Printing operations
 
 ---
 
 ### 🔹 DAT Load Extractor (Chrome Extension)
-- Engineered real-time freight data extraction system  
-- Automated workflows reducing manual effort by **80%**  
-- Built multi-user data isolation and backend sync  
+
+* Engineered real-time freight load extraction workflows from the DAT Load Board
+* Automated operational processes reducing manual effort by ~80%
+* Implemented multi-user authentication and backend synchronization pipelines
 
 ---
 
 ### 🔹 Geo-Based Order Allocation System
-- Designed real-time delivery allocation system  
-- Served **50+ agents** with optimized routing  
-- Implemented OTP-based delivery verification  
 
----
-
-## 📈 GitHub Stats
-
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saifk05&show_icons=true&theme=tokyonight)
+* Developed real-time delivery allocation workflows serving 50+ delivery agents
+* Built OTP-based delivery verification and operational tracking systems
+* Optimized assignment workflows using FIFO-based routing logic
 
 ---
 
 ## 🏆 Highlights
 
-- 🚀 Built systems serving **8000+ users**  
-- ⚡ Reduced manual operations by **80%**  
-- 📦 Designed scalable backend architectures  
+* 🚀 Built operational systems used across logistics and automation workflows
+* ⚡ Reduced manual operational effort through automation and backend orchestration
+* 📦 Experienced in scalable backend systems, APIs, and workflow platforms
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/saif-kalkeri  
-- 🌐 Portfolio: https://saifali-kalkeri-portfolio.vercel.app/  
-- 📧 Email: kalkerisaif@gmail.com  
+* 🔗 LinkedIn: https://www.linkedin.com/in/saif-kalkeri
+* 🌐 Portfolio: https://saifali-kalkeri-portfolio.vercel.app/
+* 📧 Email: [kalkerisaif@gmail.com](mailto:kalkerisaif@gmail.com)
